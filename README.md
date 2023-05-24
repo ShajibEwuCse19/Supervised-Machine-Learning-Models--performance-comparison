@@ -7,8 +7,8 @@ How to run the code
 
 Output
 ======
-Link: 1. https://colab.research.google.com/drive/1wuDquWnaydtDbYTzsgr9trpEkKaLYzJx#scrollTo=heLKtssHzFa6
-      2. https://colab.research.google.com/drive/1W3eQcLI_j4tSCR5qHYZLdSfYoDPwJZds?usp=sharing#scrollTo=J_Sk2tjG_2B2
+Link-1: https://colab.research.google.com/drive/1wuDquWnaydtDbYTzsgr9trpEkKaLYzJx#scrollTo=heLKtssHzFa6
+Link-2: https://colab.research.google.com/drive/1W3eQcLI_j4tSCR5qHYZLdSfYoDPwJZds?usp=sharing#scrollTo=J_Sk2tjG_2B2
       
 Dataset 
 =======
